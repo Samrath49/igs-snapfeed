@@ -7,6 +7,8 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
+[![Lighthouse Performance Check](https://github.com/Samrath49/igs-snapfeed/actions/workflows/lighthouse-ci.yml/badge.svg)](https://github.com/Samrath49/igs-snapfeed/actions/workflows/lighthouse-ci.yml)
+
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
